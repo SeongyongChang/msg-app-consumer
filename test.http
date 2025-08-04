@@ -1,0 +1,11 @@
+### Get all Accounting Logs
+GET http://localhost:8080/api/logs/accounting
+Accept: application/json
+
+### Get all Reception Logs
+GET http://localhost:8080/api/logs/reception
+Accept: application/json
+
+### Get all Ebanking Logs
+GET http://localhost:8080/api/logs/ebanking
+Accept: application/json
